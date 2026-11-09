@@ -45,8 +45,7 @@
     "wof:belongsto":[
         102191569,
         85632761,
-        85672975,
-        1091692295
+        85672975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +65,7 @@
     "wof:id":1243190111,
     "wof:lastmodified":1566727174,
     "wof:name":"Chong-Aryk",
-    "wof:parent_id":1091692295,
+    "wof:parent_id":85672975,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
